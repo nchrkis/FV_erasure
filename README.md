@@ -28,7 +28,7 @@ The code in this repository reproduces the numerical figures and tables used in 
 .
 ├── run_experiments.py        # Runs all numerical experiments and writes figures/CSV files
 ├── make_tables.py            # Converts CSV outputs into LaTeX table fragments
-├── LICENCE                   # Licence
+├── LICENCE                   # MIT Licence
 └── README.md
 ```
 
@@ -460,7 +460,7 @@ Therefore, the random check is reproducible.
 
 ## License
 
- CC-BY 4.0 for data and documentation.
+The source code in this repository is licensed under the **MIT License** (see `LICENSE`)
 
 
 ## Citation
